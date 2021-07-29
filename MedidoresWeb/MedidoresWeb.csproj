@@ -80,6 +80,11 @@
     <Content Include="AgregarMedidor.aspx" />
     <Content Include="AgregarUsuario.aspx" />
     <Content Include="Default.aspx" />
+    <Content Include="img\diagrama.png" />
+    <Content Include="img\Lectura.png" />
+    <Content Include="img\Medidor.png" />
+    <Content Include="img\tablas.png" />
+    <Content Include="img\Usuario.png" />
     <Content Include="Login.aspx" />
     <Content Include="MostrarLectura.aspx" />
     <Content Include="MostrarUsuario.aspx" />
