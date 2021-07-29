@@ -1,0 +1,5 @@
+C:\Users\edson\source\repos\MedidoresApp\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.dll
+C:\Users\edson\source\repos\MedidoresApp\ServidorSocketUtils\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\edson\source\repos\MedidoresApp\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\MedidoresApp\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.dll
+C:\Users\edson\source\repos\MedidoresApp\ServidorSocketUtils\obj\Debug\ServidorSocketUtils.pdb
